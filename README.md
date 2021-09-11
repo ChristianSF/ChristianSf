@@ -28,8 +28,16 @@
    <img align="center" alt="Christian-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 </div>
 
-  <br><h4 style="font-weight: bold">Frameworks:</h4>
-  <div style="">
+  <br><h4 style="font-weigth: bold">Frameworks:</h4>
+  <div style="display: inline_block">
     <img align="center" alt="Christian-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
   </div>
   
+  
+ <h2>Projetos:</h2>
+  
+  <ul>
+    <li>Fluxo Vacinação Covid</li>
+    <li>Image Fossil Classification</li>
+    <li>Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</li>
+  </ul>
