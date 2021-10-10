@@ -24,9 +24,6 @@
  <div style="display: inline_block">
    <img align="center" alt="Christian-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
    
-   <img align="center" alt="Christian-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-</div>
-
   <br><h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
     <img align="center" alt="Christian-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
