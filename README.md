@@ -33,7 +33,7 @@
  <h2>Projetos:</h2>
   
   <ul>
-    <li>Fluxo Vacinação Covid</li>
-    <li>Image Fossil Classification</li>
-    <li>Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</li>
+    <li><h3>Fluxo Vacinação Covid</h3></li>
+    <li><h3>Image Fossil Classification</h3></li>
+    <li><h3>Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</h3></li>
   </ul>
