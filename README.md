@@ -27,7 +27,7 @@
   <br><h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
     <img align="center" alt="Christian-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
-  </div>
+  </div><br/>
   
   
  <h2>Projetos:</h2>
@@ -35,8 +35,14 @@
   <ul>
     <li><h3><a href="https://fluxovacinacaocovid.web.app/" target="_blank">Fluxo Vacinação Covid</a></h3></li>
       <ul>
-        <li><h4><a href="https://recomendacao-cidades.herokuapp.com/">Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</a></h4></li>
+        <li><h4><a href="https://recomendacao-cidades.herokuapp.com/">Recommendation-System-for-Cities-to-Increase-the-Flow-Vaccination</a></h4></li>
       </ul>
     <li><h3>Image Fossil Classification</h3></li>
     
-  </ul>
+  </ul><br/>
+  
+   <h2>Contacts:</h2>
+     <div style="display: inline_block">
+      <img align="center" alt="Christian-Linkedin" height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>
+     </div>
+
