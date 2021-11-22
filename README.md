@@ -21,7 +21,9 @@
 </div
   
   <br><h4 style="font-weight: bold">Main Cloud Services:</h4>
- <div style="display: inline_block">
+ <div style="display: inli<div style="display: inline_block">
+      <a href="https://www.linkedin.com/in/christian-freitas21/" target="_blank"><img align="center" alt="Christian-Linkedin" height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></a>
+     </div>ne_block">
    <img align="center" alt="Christian-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
    
   <br><h4 style="font-weigth: bold">Frameworks:</h4>
@@ -43,6 +45,11 @@
   
    <h2>Contacts:</h2>
      <div style="display: inline_block">
-      <img align="center" alt="Christian-Linkedin" height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>
+      <div style="display: inline_block">
+52
+      <a href="https://www.linkedin.com/in/christian-freitas21/" target="_blank"><img align="center" alt="Christian-Linkedin" height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></a>
+53
+     </div>      <a href="https://www.linkedin.com/in/christian-freitas21/" target="_blank"><img align="center" alt="Christian-Linkedin" height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></a>
      </div>
+ 
 
