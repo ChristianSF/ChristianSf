@@ -35,7 +35,7 @@
   <ul>
     <li><h3><a href="https://fluxovacinacaocovid.web.app/" target="_blank">Fluxo Vacinação Covid</a></h3></li>
       <ul>
-        <li><h4><a href="https://recomendacao-cidades.herokuapp.com/" target="_blank">Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</a></h4></li>
+        <li><h4><a href="https://recomendacao-cidades.herokuapp.com/">Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</a></h4></li>
       </ul>
     <li><h3>Image Fossil Classification</h3></li>
     
