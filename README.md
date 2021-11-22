@@ -33,7 +33,7 @@
  <h2>Projetos:</h2>
   
   <ul>
-    <li><h3>Fluxo Vacinação Covid</h3></li>
+    <li><h3><a href="https://fluxovacinacaocovid.web.app/" target="_blank">Fluxo Vacinação Covid</a></h3></li>
       <ul>
         <li><h4>Recommendation-System-for-Cities-to-Increase-the-Flow-of-Vaccination</h4></li>
       </ul>
