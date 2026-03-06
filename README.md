@@ -26,6 +26,22 @@ Data Scientist com 4+ anos de experiência desenvolvendo e implantando soluçõe
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 
+**Cloud & Databases:**
+- AWS (S3, EC2, Lambda, Glue, Athena)
+- Vector Databases (FAISS, Qdrant, ChromaDB)
+- Data Lake Architectures
+
+### Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ## Research Projects
 
 ### UNIFESP | RAG Multi-Agente para Epidemiologia
