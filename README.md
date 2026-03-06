@@ -63,11 +63,11 @@ Data Scientist com 4+ anos de experiência desenvolvendo e implantando soluçõe
 
 ### Conference Papers
 
-**Enhancing Industrial Data Access with Text-to-SQL using Portuguese LLMs and LangGraph** (2024)  
+**Enhancing Industrial Data Access with Text-to-SQL using Portuguese LLMs and LangGraph** (2025)  
 *C. Freitas et al.*  
 Framework for bridging natural language and industrial databases using LangGraph orchestration with Portuguese LLMs (Maritaca AI sabia-3.1, sabia-3, sabiazim-3) and OpenAI models, demonstrating effective data accessibility for non-technical users in industrial maintenance scenarios.
 
-**Enhancing Epidemiological Insights with RAG for SIREVA-SUS Reports** (2024)  
+**Enhancing Epidemiological Insights with RAG for SIREVA-SUS Reports** (2025)  
 *C. Freitas et al.*  
 RAG framework for extracting epidemiological insights from Brazil's SIREVA-SUS national surveillance system, comparing multilingual LLMs (Qwen) and Portuguese models (Sabia, Port5, Bertimbau) with multiple retrieval strategies for public health decision support.
 
