@@ -82,12 +82,3 @@ Comprehensive benchmarking study comparing Portuguese LLMs for SQL generation ta
 Construction of a UD corpus from Brazilian public health documents, addressing domain-specific challenges in epidemiological texts and analyzing the impact of document extraction methods on syntactic parsing.
 
 > Full publication list available on [Google Scholar](https://scholar.google.com.br/citations?user=8faAsLoAAAAJ&hl=pt-BR)
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianSF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSF&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
