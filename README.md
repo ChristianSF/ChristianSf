@@ -73,7 +73,13 @@ RAG framework for extracting epidemiological insights from Brazil's SIREVA-SUS n
 
 ### Work in Progress
 
-**Towards a Universal Dependencies Corpus for Portuguese Epidemiological Reports**  
+**Comparative Evaluation of Portuguese Language Models for Text-to-SQL Generation** (2026)  
+*C. Freitas*  
+Comprehensive benchmarking study comparing Portuguese LLMs for SQL generation tasks in enterprise contexts.  
+*Target: Enterprise Information Systems*
+
+**Towards a Universal Dependencies Corpus for Portuguese Epidemiological Reports**
+*C. Freitas*  
 Construction of a UD corpus from Brazilian public health documents, addressing domain-specific challenges in epidemiological texts and analyzing the impact of document extraction methods on syntactic parsing.
 
 > Full publication list available on [Google Scholar](https://scholar.google.com.br/citations?user=8faAsLoAAAAJ&hl=pt-BR)
