@@ -5,8 +5,7 @@
 ## About
 
 Data Scientist com 4+ anos de experiência desenvolvendo e implantando soluções baseadas em IA em ambientes empresariais. Atualmente trabalhando como AI & Advanced Analytics Consultant na Globalhitss/Claro, focado em sistemas RAG, integração de LLMs e arquiteturas de dados escaláveis.
-Experiência abrangente desde modelos clássicos de Machine Learning (tree-based models, XGBoost, LightGBM, Random Forest) e Deep Learning (LSTMs, CNNs, Transformers) até sistemas avançados de LLMs e RAG. Especialista em desenvolver soluções end-to-end, desde análise exploratória e feature engineering até deployment em produção, com foco principal em Natural Language Processing (NLP), aplicações de linguagem e sistemas multi agentes.
-
+Experiência abrangente desde modelos clássicos de Machine Learning (tree-based models, XGBoost, LightGBM, Random Forest) e Deep Learning (LSTMs, CNNs, Transformers) até sistemas avançados de LLMs e RAG. Experiência em desenvolver soluções end-to-end, desde análise exploratória e feature engineering até deployment em produção, com foco principal em Natural Language Processing (NLP), aplicações de linguagem e sistemas multi agentes.
 
 ## Tech Stack
 
