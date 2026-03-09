@@ -4,7 +4,8 @@
 
 ## About
 
-Data Scientist com 4+ anos de experiência desenvolvendo e implantando soluções baseadas em IA em ambientes empresariais. Atualmente trabalhando como AI & Advanced Analytics Consultant na Globalhitss/Claro, focado em sistemas RAG, Text To SQL, integração de LLMs e arquiteturas de dados escaláveis.
+Data Scientist com 4+ anos de experiência desenvolvendo e implantando soluções baseadas em IA em ambientes empresariais. Atualmente trabalhando como AI & Advanced Analytics Consultant na Globalhitss/Claro, focado em sistemas RAG, integração de LLMs e arquiteturas de dados escaláveis.
+Experiência abrangente desde modelos clássicos de Machine Learning (tree-based models, XGBoost, LightGBM, Random Forest) e Deep Learning (LSTMs, CNNs, Transformers) até sistemas avançados de LLMs e RAG. Especialista em desenvolver soluções end-to-end, desde análise exploratória e feature engineering até deployment em produção, com foco principal em Natural Language Processing (NLP), aplicações de linguagem e sistemas multi agentes.
 
 
 ## Tech Stack
@@ -35,7 +36,14 @@ Data Scientist com 4+ anos de experiência desenvolvendo e implantando soluçõe
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
 
+**Classical ML & Deep Learning:**
+- Tree-based Models (Random Forest, Decision Trees, XGBoost, LightGBM, CatBoost)
+- Deep Learning Architectures (LSTMs, CNNs, Transformers)
+- Ensemble Methods & Model Optimization
+- Feature Engineering & Selection
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
